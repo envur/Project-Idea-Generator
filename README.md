@@ -1,6 +1,6 @@
 # Project-Idea-Generator
 
-<center>![Main Screen](/src/assets/readme.png)</center>
+<center>![Main Screen](./src/assets/readme.png)</center>
 
 This app was made in order to understand better the differences between Vue's Options API and Composition API.
 
